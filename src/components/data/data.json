@@ -1,0 +1,42 @@
+[
+    {
+        "userName": "Безлимитный 300",
+        "age":"300",
+        "city":"до 10 Мбит/сек",
+        "color":"blue",
+        "colorback":"blueback",
+        "lemit":"Объем включенного трафика не ограничен",
+        "styles":"style",
+        "style":"styles"
+    },
+    {
+        "userName": "Безлимитный 450",
+        "age":"450",
+        "city":"до 50 Мбит/сек",
+        "color":"green",
+        "colorback":"greenback",
+        "lemit":"Объем включенного трафика не ограничен",
+        "styles":"style",
+        "style":"styles"
+    },
+    {
+        "userName": "Безлимитный 550",
+        "age":"550",
+        "city":"до 100 Мбит/сек",
+        "color":"red",
+        "colorback":"redback",
+        "lemit":"Объем включенного трафика не ограничен",
+        "styles":"style",
+        "style":"styles"
+    },
+    {
+        "userName": "Безлимитный 1000",
+        "age":"1000",
+        "city":"до 200 Мбит/сек",
+        "color":"black",
+        "colorback":"blackback",
+        "lemit":"Объем включенного трафика не ограничен",
+        "styles":"style",
+        "style":"styles"
+    }
+]

@@ -1,0 +1,28 @@
+App {
+  text-align: center;
+}
+.conteyner {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  margin: 10% 25%;
+  display: flex;
+  box-sizing: border-box;
+  
+}
+.kart {
+  margin: auto 2px;
+}
+.kart:hover{
+  cursor: pointer;
+  box-shadow: 0px 10px 20px 0px #9e9e9e;
+  
+}
+.cena{
+  font-size:medium;
+    padding-right: 5px;
+}
+
+.time{
+  font-size:medium; 
+  padding-top: 20px; 
+  padding-left: 5px;
+}
